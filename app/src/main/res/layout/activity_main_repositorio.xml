@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/color_background"
+    tools:context=".MainActivity_Repositorio"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/txt2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:gravity="center"
+        android:text="@string/links_de_descarga"
+        android:fontFamily="@font/anton_normal"
+        android:textColor="#FFC107"
+        android:textSize="30sp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="108dp" />
+
+
+
+    <TextView
+        android:id="@+id/pnapr"
+        android:textColor="#F9FAFA"
+        android:fontFamily="@font/concert_normal"
+        android:layout_marginStart="10dp"
+        android:textSize="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="@string/protocolo_nacional_de_actuaci_n_de_primer_respondiente"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="108dp" />
+
+    <TextView
+        android:id="@+id/pnt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:textColor="#F9FAFA"
+        android:fontFamily="@font/concert_normal"
+        android:textSize="20sp"
+        android:layout_marginTop="10dp"
+        android:text="@string/protocolo_nacional_de_traslados"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="108dp" />
+
+    <TextView
+        android:id="@+id/pnpcp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:textColor="#FAFDFD"
+        android:fontFamily="@font/concert_normal"
+        android:textSize="20sp"
+        android:layout_marginTop="10dp"
+        android:text="@string/protocolo_nacional_de_polic_a_con_capacidades_para_procesar"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="108dp" />
+
+    <TextView
+        android:id="@+id/gncc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:textColor="#FBFDFD"
+        android:fontFamily="@font/concert_normal"
+        android:textSize="20sp"
+        android:layout_marginTop="10dp"
+        android:text="@string/gu_a_nacional_de_cadena_de_custodia"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="108dp" />
+
+    <TextView
+        android:id="@+id/pss"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:textColor="#F9FBFB"
+        android:fontFamily="@font/concert_normal"
+        android:textSize="20sp"
+        android:layout_marginTop="10dp"
+        android:text="@string/protocolo_de_seguridad_en_salas"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="108dp" />
+
+    <TextView
+        android:id="@+id/pvg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:textColor="#F9FDFD"
+        android:fontFamily="@font/concert_normal"
+        android:textSize="20sp"
+        android:layout_marginTop="10dp"
+        android:text="@string/protocolo_nacional_de_actuaci_n_policial_para_la_atenci_n_a_la_violencia_de_g_nero_contra_las_mujeres_en_el_ambito_familiar"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="108dp" />
+
+        <com.codesgood.views.JustifiedTextView
+            android:id="@+id/txt6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="0dp"
+            android:text="Debes contar con INTERNET para descargar el contenido"
+            android:textColor="#FFC107"
+            android:textSize="15sp"
+
+            android:textStyle="italic"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:layout_editor_absoluteX="108dp" />
+
+
+        <com.codesgood.views.JustifiedTextView
+        android:id="@+id/txt1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:textColor="#FFC107"
+        android:textStyle="italic"
+        android:textSize="15sp"
+        android:text="Exención de responsabilidad: Esta aplicación es un proyecto independiente y no tiene relación con ninguna institución gubernamental. Los datos e información que se muestran provienen de Protocolos. Normateca del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública, Se recomienda verificar la información directamente en los canales oficiales antes de tomar decisiones basadas en su contenido en: https://www.gob.mx/sesnsp/documentos/protocolos-normateca-sesnsp?state=published."
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="108dp"
+        />
+
+    </LinearLayout>
+
+
+
+</ScrollView>

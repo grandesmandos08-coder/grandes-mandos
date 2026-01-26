@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/color_background"
+    tools:context=".Add_Entrevistas"
+    android:orientation="vertical">
+
+
+
+
+            <EditText
+                android:id="@+id/carpeta_input"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="@string/carpeta_de_investigaci_n_delitoedit"
+                android:textColorHint="@color/white"
+                android:textColor="@color/white"
+                android:importantForAutofill="no"
+                android:inputType="textPersonName"
+                android:minHeight="48dp"
+                android:layout_marginTop="10dp"
+                tools:layout_editor_absoluteX="91dp"
+                tools:layout_editor_absoluteY="26dp" />
+
+
+             <EditText
+               android:id="@+id/nombre_input"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_alignParentStart="true"
+               android:layout_alignParentTop="true"
+               android:layout_marginTop="62dp"
+               android:ems="10"
+               android:hint="@string/nombre_del_entrevistadoedit"
+               android:importantForAutofill="no"
+               android:inputType="textPersonName"
+               android:textColor="@color/white"
+               android:textColorHint="@color/white"
+               tools:ignore="TouchTargetSizeCheck,TextContrastCheck" />
+
+            <EditText
+               android:id="@+id/domicilio_input"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_alignParentStart="true"
+               android:layout_alignParentTop="true"
+               android:layout_marginTop="112dp"
+               android:ems="10"
+               android:hint="@string/domicilio_del_entrevistadoedit"
+               android:importantForAutofill="no"
+               android:inputType="textPersonName"
+               android:textColor="@color/white"
+               android:textColorHint="@color/white"
+               tools:ignore="TouchTargetSizeCheck" />
+
+            <EditText
+        android:id="@+id/telefono_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="165dp"
+        android:ems="10"
+        android:hint="@string/telefono_del_entrevistadoedit"
+        android:inputType="phone"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        tools:ignore="TouchTargetSizeCheck"
+                android:importantForAutofill="no" />
+
+    <EditText
+        android:id="@+id/entrevista_input"
+        android:layout_width="match_parent"
+        android:layout_height="247dp"
+        android:layout_alignTop="@+id/telefono_input"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="47dp"
+        android:layout_marginBottom="144dp"
+        android:autofillHints=""
+        android:ems="10"
+        android:gravity="top|center"
+        android:hint="@string/entrevistaedit"
+        android:inputType="textMultiLine"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white" />
+
+    <Button
+        android:id="@+id/add_button"
+        style="?attr/materialButtonOutlinedStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+
+        android:layout_gravity="center"
+        android:layout_marginStart="-19dp"
+        android:layout_marginEnd="-4dp"
+
+        android:layout_marginBottom="54dp"
+        android:fontFamily="@font/anton_normal"
+        android:text="@string/agregar_entrevista"
+        android:textColor="@color/teal_200"
+        android:textSize="20sp"
+        app:cornerRadius="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.553"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.894"
+        app:strokeColor="#04FDD8" />
+
+</RelativeLayout>

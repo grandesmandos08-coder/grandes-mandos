@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/dell i7/AndroidStudioProjects/GrandesMandos/app/src/main/res/drawable-v24/add_icon_entrevistas.xml" value="0.1" />
+        <entry key="..\:/Users/dell i7/AndroidStudioProjects/GrandesMandos/app/src/main/res/drawable-v24/color_background.xml" value="0.1315" />
+        <entry key="..\:/Users/dell i7/AndroidStudioProjects/GrandesMandos/app/src/main/res/drawable-v24/ic_borrar.xml" value="0.1315" />
+        <entry key="..\:/Users/dell i7/AndroidStudioProjects/GrandesMandos/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/dell i7/AndroidStudioProjects/GrandesMandos/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1315" />
+        <entry key="..\:/Users/dell i7/AndroidStudioProjects/GrandesMandos/app/src/main/res/drawable-v24/ic_modificar.xml" value="0.1315" />
+        <entry key="..\:/Users/dell i7/AndroidStudioProjects/GrandesMandos/app/src/main/res/drawable/add_icon_entrevistas.xml" value="0.1" />
+        <entry key="..\:/Users/dell i7/AndroidStudioProjects/GrandesMandos/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1315" />
+        <entry key="..\:/Users/dell i7/AndroidStudioProjects/GrandesMandos/app/src/main/res/layout/activity_add_entrevistas.xml" value="0.22" />
+        <entry key="..\:/Users/dell i7/AndroidStudioProjects/GrandesMandos/app/src/main/res/layout/activity_agregar_notas.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/dell i7/AndroidStudioProjects/GrandesMandos/app/src/main/res/layout/activity_login.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/dell i7/AndroidStudioProjects/GrandesMandos/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/dell i7/AndroidStudioProjects/GrandesMandos/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/Users/dell i7/AndroidStudioProjects/GrandesMandos/app/src/main/res/layout/activity_main_contactos.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/dell i7/AndroidStudioProjects/GrandesMandos/app/src/main/res/layout/activity_main_entrevistas.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/dell i7/AndroidStudioProjects/GrandesMandos/app/src/main/res/layout/activity_main_informes.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/dell i7/AndroidStudioProjects/GrandesMandos/app/src/main/res/layout/activity_main_notas.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/dell i7/AndroidStudioProjects/GrandesMandos/app/src/main/res/layout/activity_main_repositorio.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/dell i7/AndroidStudioProjects/GrandesMandos/app/src/main/res/layout/activity_maps.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/dell i7/AndroidStudioProjects/GrandesMandos/app/src/main/res/layout/activity_modificar_nota.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/dell i7/AndroidStudioProjects/GrandesMandos/app/src/main/res/layout/activity_update_entrevista.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/dell i7/AndroidStudioProjects/GrandesMandos/app/src/main/res/layout/fragment_blank.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/dell i7/AndroidStudioProjects/GrandesMandos/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/dell i7/AndroidStudioProjects/GrandesMandos/app/src/main/res/layout/fragment_map.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/dell i7/AndroidStudioProjects/GrandesMandos/app/src/main/res/layout/fragment_maps.xml" value="0.1" />
+        <entry key="..\:/Users/dell i7/AndroidStudioProjects/GrandesMandos/app/src/main/res/layout/my_arrow_entrev.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/dell i7/AndroidStudioProjects/GrandesMandos/app/src/main/res/layout/my_row_notas.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/dell i7/AndroidStudioProjects/GrandesMandos/app/src/main/res/layout/toolbar.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/dell i7/AndroidStudioProjects/GrandesMandos/app/src/main/res/menu/bottom_navigation.xml" value="0.1" />
+        <entry key="..\:/Users/dell i7/AndroidStudioProjects/GrandesMandos/app/src/main/res/menu/menu_eliminar.xml" value="0.22" />
+        <entry key="..\:/Users/dell i7/AndroidStudioProjects/GrandesMandos/app/src/main/res/menu/menu_maps.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/dell i7/AndroidStudioProjects/GrandesMandos/app/src/main/res/mipmap-anydpi-v26/ic_gm_launcher.xml" value="0.125" />
+        <entry key="..\:/Users/dell i7/AndroidStudioProjects/GrandesMandos/app/src/main/res/mipmap-anydpi-v26/ic_gm_launcher_round.xml" value="0.125" />
+        <entry key="..\:/Users/dell i7/AndroidStudioProjects/GrandesMandos/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1315" />
+        <entry key="..\:/Users/dell i7/AndroidStudioProjects/GrandesMandos/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="jbr-21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

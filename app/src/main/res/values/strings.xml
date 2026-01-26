@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Grandes Mandos</string>
+    <string name="bar_title">Grandes Mandos</string>
+    <string name="Navigation_drawer_close">Cerrar</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btnRepositorio">PROTOCOLOS NACIONALES</string>
+    <string name="btnMapas">MAPA</string>
+    <string name="btnBitacora">BITÁCORA</string>
+    <string name="btnEntrevistas">ENTREVISTAS</string>
+    <string name="btnInformes">INFORMES POLICIALES</string>
+    <string name="btnContacto">CONTACTO</string>
+    <string name="nombre_del_evento">Nombre del evento</string>
+    <string name="hora_del_evento">Hora</string>
+    <string name="fecha_del_evento">Fecha</string>
+    <string name="narraci_n_del_evento">NARRACIÓN DEL EVENTO</string>
+    <string name="agregar_evento_a_bitacora">agregar evento a bitacora</string>
+    <string name="carpeta_de_investigaci_n_delito">Carpeta de Investigación/Delito</string>
+    <string name="nombre_del_entrevistado">Nombre del entrevistado</string>
+    <string name="domicilio_del_entrevistado">Domicilio del entrevistado</string>
+    <string name="telefono_del_entrevistado">Telefono del entrevistado</string>
+    <string name="entrevista">Entrevista</string>
+    <string name="editar_entrevista">EDITAR ENTREVISTA</string>
+    <string name="eliminar_entrevista">ELIMINAR ENTREVISTA</string>
+    <string name="carpeta_de_investigaci_n_delitoedit">Carpeta de Investigación/Delito</string>
+    <string name="nombre_del_entrevistadoedit">Nombre del entrevistado</string>
+    <string name="domicilio_del_entrevistadoedit">Domicilio del entrevistado</string>
+    <string name="telefono_del_entrevistadoedit">Telefono del entrevistado</string>
+    <string name="entrevistaedit">Entrevista</string>
+    <string name="agregar_entrevista">Agregar entrevista</string>
+    <string name="nombre">Nombre</string>
+    <string name="textview">TextView</string>
+    <string name="hora">TextView</string>
+    <string name="nombre_del_eventoedit">Nombre del evento</string>
+    <string name="hora_del_eventoedit">Hora</string>
+    <string name="fecha_del_eventoedit">Fecha</string>
+    <string name="narraci_n_del_eventoedit">NARRACIÓN DEL EVENTO</string>
+    <string name="editar_evento">EDITAR EVENTO</string>
+    <string name="eliminar_evento">ELIMINAR EVENTO</string>
+    <string name="links_de_descarga">Links de descarga.</string>
+    <string name="descargas">Exención de responsabilidad: Esta aplicación es un proyecto independiente y no tiene relación con ninguna institución gubernamental. Los datos e información que se muestran provienen de Protocolos. Normateca del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública : https://www.gob.mx/sesnsp/documentos/protocolos-normateca-sesnsp?state=published. Se recomienda verificar la información directamente en los canales oficiales antes de tomar decisiones basadas en su contenido.</string>
+    <string name="protocolo_nacional_de_actuaci_n_de_primer_respondiente">Protocolo Nacional de Actuación de Primer Respondiente.</string>
+    <string name="protocolo_nacional_de_traslados">Protocolo Nacional de Traslados.</string>
+    <string name="protocolo_nacional_de_polic_a_con_capacidades_para_procesar">Protocolo Nacional de Policía con Capacidades para Procesar.</string>
+    <string name="gu_a_nacional_de_cadena_de_custodia">Guía Nacional de Cadena de Custodia.</string>
+    <string name="protocolo_de_seguridad_en_salas">Protocolo de Seguridad en Salas.</string>
+    <string name="protocolo_nacional_de_actuaci_n_policial_para_la_atenci_n_a_la_violencia_de_g_nero_contra_las_mujeres_en_el_ambito_familiar">Protocolo Nacional de Actuación Policial para la Atención a la Violencia de Género Contra las Mujeres en el Ambito Familiar</string>
+    <string name="informe_policial_homologado_delitos">Informe Policial Homologado (Delitos).</string>
+    <string name="informe_policial_homologado_editable_delitos">Informe Policial Homologado-Editable (Delitos).</string>
+    <string name="informe_policial_homologado_justicia_c_vica">Informe Policial Homologado (Justicia Cívica).</string>
+    <string name="lineamientos_del_iph">Lineamientos del IPH.</string>
+    <string name="gu_a_de_llenado_iph_infracciones">Guía de llenado IPH-Infracciones.</string>
+    <string name="registro_de_cadena_de_custodia">Registro de Cadena de Custodia.</string>
+    <string name="registro_de_cadena_de_custodia_editable">Registro de Cadena de Custodia-Editable.</string>
+    <string name="descargasinfo">Exención de responsabilidad: Esta aplicación es un proyecto independiente y no tiene relación con ninguna institución gubernamental. Los datos e información que se muestran provienen de Protocolos. Normateca del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública, Se recomienda verificar la información directamente en los canales oficiales antes de tomar decisiones basadas en su contenido en: : https://www.gob.mx/sesnsp/documentos/protocolos-normateca-sesnsp?state=published.</string>
+    <string name="eliminar">ELIMINAR</string>
+    <string name="v_a_messenger">VÍA MESSENGER</string>
+
+
+</resources>

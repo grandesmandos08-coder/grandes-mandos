@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <item
+        android:title="Contáctanos en nuestras redes:"
+
+       >
+
+        <menu>
+            <item
+                android:id="@+id/nav_item_face"
+                android:icon="@drawable/facebook"
+                android:title="Facebook: @grandes_mandos"
+                />
+            <item
+                android:id="@+id/nav_item_mess"
+                android:icon="@drawable/messenger"
+                android:title="Messenger"
+                />
+            <item
+                android:id="@+id/nav_item_you"
+                android:icon="@drawable/youtube"
+                android:title="Youtube"
+                />
+        </menu>
+
+    </item>
+
+    <item
+        android:id="@+id/acerca_de"
+        android:title="Acerca de Grandes Mandos:"
+        >
+    </item>
+
+</menu>

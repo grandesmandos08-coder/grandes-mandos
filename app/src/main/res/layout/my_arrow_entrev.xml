@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:id="@+id/mainLayout">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:layout_marginBottom="0dp">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/teal_700"
+            android:padding="5dp">
+
+            <TextView
+                android:id="@+id/text_id"
+                android:layout_width="27dp"
+                android:layout_height="6dp"
+                android:text="1"
+                android:textColor="@color/teal_700"
+                android:textSize="3sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="1.0"
+                app:layout_constraintStart_toEndOf="@+id/text_nombre"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:ignore="HardcodedText,SmallSp" />
+
+            <TextView
+                android:id="@+id/text_carpeta"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="4dp"
+                android:layout_marginBottom="24dp"
+                android:text="Carpeta"
+                android:textColor="@color/white"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.163" />
+
+            <TextView
+                android:id="@+id/text_nombre"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="4dp"
+                android:text="Nombre"
+                android:textColor="@color/white"
+                android:textSize="15sp"
+                android:textStyle="italic|bold"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/text_carpeta"
+                app:layout_constraintVertical_bias="1.0"
+                tools:ignore="TextContrastCheck" />
+
+            <TextView
+                android:id="@+id/text_domicilio"
+                android:layout_width="21dp"
+                android:layout_height="5dp"
+                android:layout_marginTop="8dp"
+                android:text="1"
+                android:textColor="@color/teal_700"
+                android:textSize="3sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.902"
+                app:layout_constraintStart_toEndOf="@+id/text_nombre"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/text_telefono"
+                android:layout_width="142dp"
+                android:layout_height="24dp"
+                android:layout_marginBottom="4dp"
+                android:gravity="start"
+                android:text="055"
+                android:textColor="@color/white"
+                android:textSize="13sp"
+                android:textStyle="italic|bold"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.983"
+                app:layout_constraintStart_toEndOf="@+id/text_nombre" />
+
+            <TextView
+                android:id="@+id/text_entrevista"
+                android:layout_width="14dp"
+                android:layout_height="3dp"
+                android:layout_marginTop="8dp"
+                android:text="1"
+                android:textColor="@color/teal_700"
+                android:textSize="3sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.83"
+                app:layout_constraintStart_toEndOf="@+id/text_nombre"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:ignore="HardcodedText,SmallSp" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@color/teal_200"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+</LinearLayout>
